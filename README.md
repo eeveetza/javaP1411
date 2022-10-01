@@ -9,7 +9,7 @@ The following table describes the structure of the folder `./src/` containing th
 
 | File/Folder               | Description                                                         |
 |----------------------------|---------------------------------------------------------------------|
-|`main/P1411.java`                | Java class implementing Recommendation ITU-R P.528-5         |
+|`main/P1411.java`                | Java class implementing Recommendation ITU-R P.1411-11        |
 |`test/P1411Test.java`          | Java class implementing validation tests          |
 
 
