@@ -69,7 +69,7 @@ L = pl_1411_lowheight(f, d, env, p)
 | Variable          | Type   | Units | Limits       | Description  |
 |-------------------|--------|-------|--------------|--------------|
 | `f`               | double | GHz   | 0.3 ≤ `f`≤ 3 | Frequency | 
-| `d`               | double | m   | 0 < `d`≤ 1   | 3D direct distance between Tx and Rx stations  |
+| `d`               | double | km   | 0 < `d`≤ 3   | 3D direct distance between Tx and Rx stations  |
 | `env`      | ClutterEnvironment |    | SUBURBAN,  URBAN, DENSE_URBAN | Envirnonment type |
 | `p`      | double | %    | 0 < `p`< 100  | Location percentage |
 
